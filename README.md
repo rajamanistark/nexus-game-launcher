@@ -4,6 +4,11 @@
 <p align="center"><b>Your PC, played like a console.</b><br>
 A full-fledged couch gaming launcher for Windows.</p>
 
+<p align="center">
+  <a href="https://github.com/rajamanistark/nexus-game-launcher/releases/latest/download/Nexus-Setup.exe"><img src="https://img.shields.io/github/v/release/rajamanistark/nexus-game-launcher?style=for-the-badge&label=Download%20for%20Windows&logo=windows&logoColor=white&color=8b5cf6" height="52" alt="Download Nexus for Windows"></a>
+</p>
+<p align="center"><sub><b>Version 0.2.0 · Public Beta</b> · Windows 10 / 11 · 64-bit · updates itself inside the app</sub></p>
+
 ---
 
 ## What is Nexus?
@@ -36,8 +41,8 @@ without ever touching a mouse or keyboard.
   Start with Windows.
 
 ## Install
-1. Download the latest **Nexus_x.x.x_x64-setup.exe** from
-   [Releases](../../releases/latest).
+1. Click **[Download for Windows](https://github.com/rajamanistark/nexus-game-launcher/releases/latest/download/Nexus-Setup.exe)** (or pick a version under
+   [Releases](../../releases)).
 2. Run it. If Windows shows "Windows protected your PC", choose
    **More info → Run anyway**.
 3. Follow the welcome screens. A controller is recommended.
